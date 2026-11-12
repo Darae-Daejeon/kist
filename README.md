@@ -9,5 +9,11 @@
 - `edm/index.html`: 메일 발송용 HTML, `edm/newsletter.png`: 뉴스레터 이미지
 - `smk/`: 기술소개서 6건 (`img/`는 기술소개서 이미지)
 
-## 예정
-- 2026-jbnu-partnering: KIST-전북대 공동기술상담회(12.16) — 행사 종료 후 kist-jbnu-partnering-2026 저장소에서 이동
+## 2026-jbnu-partnering
+KIST-전북대 탄소복합·이차전지소재분야 공동기술상담회 (2026.12.16 10:00, 전북테크비즈센터 2층 다목적실)
+
+- `index.html`: 랜딩페이지 (상담 기술 20건, 상담 신청)
+- `assets/`: CSS·JS·기술 이미지(`img/`)·SMK 원본(`docs/`)
+- `edm/edm.png`: 안내 메일 이미지
+
+※ 행사 종료 전까지는 기존 `kist-jbnu-partnering-2026` 저장소가 실제 운영본. 행사 후 최신본으로 다시 맞추고 기존 저장소 삭제 예정
