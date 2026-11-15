@@ -1,0 +1,25 @@
+# 이 저장소에 무언가 올라오면 메인 페이지(darae-daejeon.github.io)에 "목록 갱신" 신호를 보냅니다.
+# 필요한 것: 이 저장소(또는 계정 전체)의 Actions 비밀값 HUB_TOKEN
+# HUB_TOKEN 이 없으면 아무것도 하지 않고 끝나며, 메인 페이지는 30분마다 알아서 갱신됩니다.
+name: 메인 페이지에 갱신 신호
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 신호 보내기
+        env:
+          HUB_TOKEN: ${{ secrets.HUB_TOKEN }}
+        run: |
+          if [ -z "$HUB_TOKEN" ]; then echo "HUB_TOKEN 없음 — 30분 주기 갱신을 기다립니다"; exit 0; fi
+          curl -sS -f -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $HUB_TOKEN" \
+            https://api.github.com/repos/Darae-Daejeon/darae-daejeon.github.io/dispatches \
+            -d "{\"event_type\":\"project-updated\",\"client_payload\":{\"repo\":\"${GITHUB_REPOSITORY}\"}}"
+          echo "신호 보냄"

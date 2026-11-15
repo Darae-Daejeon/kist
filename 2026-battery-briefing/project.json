@@ -1,0 +1,81 @@
+{
+  "id": "kist-battery-2026",
+  "year": 2026,
+  "type": "event",
+  "org": [
+    "kist"
+  ],
+  "title": "2026 KIST 유망기술 설명회 — 차세대 전지 기술이전",
+  "kind": "기술설명회",
+  "short": "KIST 차세대 전지 설명회",
+  "date": "2026-06-23",
+  "time": "14:00",
+  "place": "코엑스 308호",
+  "thumb": "kist-connect",
+  "smk": [
+    {
+      "no": "01-1",
+      "field": "수소·연료전지",
+      "inst": "KIST 수소·연료전지연구단",
+      "who": "유성종",
+      "title": "고성능 고내구성 수전해 담지 촉매",
+      "url": "smk/kist-smk-1.html",
+      "thumb": "kist-smk1"
+    },
+    {
+      "no": "01-2",
+      "field": "수소·연료전지",
+      "inst": "KIST 수소·연료전지연구단",
+      "who": "유성종",
+      "title": "초임계 유체를 이용한 귀금속 함량 제어 연료전지·수전해 촉매",
+      "url": "smk/kist-smk-1.html",
+      "thumb": "kist-smk1",
+      "note": "01-1 문서 2쪽"
+    },
+    {
+      "no": "02",
+      "field": "수소·연료전지",
+      "inst": "KIST 수소·연료전지연구단",
+      "who": "이소영",
+      "title": "중고온용 Ce-Hydrogen phosphate-PBI 고분자 분리막",
+      "url": "smk/kist-smk-2.html",
+      "thumb": "kist-smk2"
+    },
+    {
+      "no": "03",
+      "field": "수소·연료전지",
+      "inst": "KIST 수소·연료전지연구단",
+      "who": "김진영",
+      "title": "산화방지제 함유 강화복합막 연료전지",
+      "url": "smk/kist-smk-3.html",
+      "thumb": "kist-smk3"
+    },
+    {
+      "no": "04",
+      "field": "이차전지",
+      "inst": "KIST 에너지저장연구센터",
+      "who": "김세영",
+      "title": "이종 원소 도핑 할라이드계 비정질 소듐 슈퍼컨덕터",
+      "url": "smk/kist-smk-4.html",
+      "thumb": "kist-smk4"
+    },
+    {
+      "no": "05",
+      "field": "이차전지",
+      "inst": "KIST 지속가능미래기술연구본부",
+      "who": "정경윤",
+      "title": "고성능 차세대 소듐 이차전지",
+      "url": "smk/kist-smk-5.html",
+      "thumb": "kist-smk5"
+    },
+    {
+      "no": "06",
+      "field": "이차전지",
+      "inst": "KIST 에너지저장연구센터",
+      "who": "유정근",
+      "title": "리튬이차전지용 후막 전극 소재 및 공정기술",
+      "url": "smk/kist-smk-6.html",
+      "thumb": "kist-smk6"
+    }
+  ]
+}

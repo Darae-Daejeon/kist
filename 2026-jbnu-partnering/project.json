@@ -1,0 +1,183 @@
+{
+  "id": "kist-jbnu-partnering-2026",
+  "year": 2026,
+  "type": "event",
+  "org": [
+    "kist",
+    "jbnu"
+  ],
+  "title": "KIST-전북대 탄소복합·이차전지소재 공동기술상담회",
+  "kind": "공동기술상담회",
+  "short": "KIST-전북대 상담회",
+  "date": "2026-12-16",
+  "time": "10:00",
+  "place": "전북테크비즈센터 2층 다목적실",
+  "mosaic": [
+    "kj1",
+    "kj2",
+    "kj3",
+    "kj4"
+  ],
+  "smk": [
+    {
+      "no": "T01",
+      "field": "탄소복합소재",
+      "inst": "KIST 전북분원",
+      "title": "빈틈 메운 초강력 CNT 복합섬유",
+      "url": "assets/docs/T01_SMK.jpg",
+      "thumb": "kj-T01"
+    },
+    {
+      "no": "T02",
+      "field": "탄소복합소재",
+      "inst": "KIST 전북분원",
+      "title": "원료 막힘 없는 CNT 연속합성 장치",
+      "url": "assets/docs/T02_SMK.jpg",
+      "thumb": "kj-T02"
+    },
+    {
+      "no": "T03",
+      "field": "탄소복합소재",
+      "inst": "KIST 전북분원",
+      "title": "전도도 3.3배 높인 질소 도핑 탄소",
+      "url": "assets/docs/T03_SMK.jpg",
+      "thumb": "kj-T03"
+    },
+    {
+      "no": "T04",
+      "field": "탄소복합소재",
+      "inst": "KIST 전북분원",
+      "title": "폐아라미드로 만든 고방열 복합체",
+      "url": "assets/docs/T04_SMK.jpg",
+      "thumb": "kj-T04"
+    },
+    {
+      "no": "T05",
+      "field": "탄소복합소재",
+      "inst": "KIST 전북분원",
+      "title": "BNNT 불순물 잡는 초간단 정제법",
+      "url": "assets/docs/T05_SMK.jpg",
+      "thumb": "kj-T05"
+    },
+    {
+      "no": "T06",
+      "field": "탄소복합소재",
+      "inst": "KIST 전북분원",
+      "title": "구리보다 가볍고 전류 큰 섬유 전선",
+      "url": "assets/docs/T06_SMK.jpg",
+      "thumb": "kj-T06"
+    },
+    {
+      "no": "T07",
+      "field": "탄소복합소재",
+      "inst": "KIST 전북분원",
+      "title": "열처리로 강도 4배 높인 CNT 섬유",
+      "url": "assets/docs/T07_SMK.jpg",
+      "thumb": "kj-T07"
+    },
+    {
+      "no": "T08",
+      "field": "탄소복합소재",
+      "inst": "전북대학교",
+      "title": "제철소 부생가스로 바로 발전하는 SOFC",
+      "url": "assets/docs/T08_SMK.jpg",
+      "thumb": "kj-T08"
+    },
+    {
+      "no": "T09",
+      "field": "탄소복합소재",
+      "inst": "KIST 전북분원",
+      "title": "붕소·질소 동시도핑 고전도 CNT 섬유",
+      "url": "assets/docs/T09_SMK.jpg",
+      "thumb": "kj-T09"
+    },
+    {
+      "no": "T10",
+      "field": "탄소복합소재",
+      "inst": "KIST 전북분원",
+      "title": "산화그래핀이 메운 고강도 CNT 섬유",
+      "url": "assets/docs/T10_SMK.jpg",
+      "thumb": "kj-T10"
+    },
+    {
+      "no": "T11",
+      "field": "탄소복합소재",
+      "inst": "전북대학교",
+      "title": "메탄에서 수소 뽑고 담는 Mg 합금",
+      "url": "assets/docs/T11_SMK.jpg",
+      "thumb": "kj-T11"
+    },
+    {
+      "no": "T12",
+      "field": "탄소복합소재",
+      "inst": "전북대학교",
+      "title": "100% PP 초경량 자기강화복합재",
+      "url": "assets/docs/T12_SMK.jpg",
+      "thumb": "kj-T12"
+    },
+    {
+      "no": "T13",
+      "field": "탄소복합소재",
+      "inst": "전북대학교",
+      "title": "곡면까지 감싸는 BNNT 중성자 차폐막",
+      "url": "assets/docs/T13_SMK.jpg",
+      "thumb": "kj-T13"
+    },
+    {
+      "no": "T14",
+      "field": "이차전지",
+      "inst": "전북대학교",
+      "title": "분산제 없이 방사선으로 푸는 CNT",
+      "url": "assets/docs/T14_SMK.jpg",
+      "thumb": "kj-T14"
+    },
+    {
+      "no": "T15",
+      "field": "이차전지",
+      "inst": "전북대학교",
+      "title": "296% 늘어나는 신축성 분리막",
+      "url": "assets/docs/T15_SMK.jpg",
+      "thumb": "kj-T15"
+    },
+    {
+      "no": "T16",
+      "field": "이차전지",
+      "inst": "KIST 전북분원",
+      "title": "10만 번 충전에도 끄떡없는 섬유 전극",
+      "url": "assets/docs/T16_SMK.jpg",
+      "thumb": "kj-T16"
+    },
+    {
+      "no": "T17",
+      "field": "이차전지",
+      "inst": "전북대학교",
+      "title": "폐배터리 가루로 새 양극재 직행",
+      "url": "assets/docs/T17_SMK.jpg",
+      "thumb": "kj-T17"
+    },
+    {
+      "no": "T18",
+      "field": "탄소복합소재",
+      "inst": "전북대학교",
+      "title": "400℃도 견디는 CNT 편광필름",
+      "url": "assets/docs/T18_SMK.jpg",
+      "thumb": "kj-T18"
+    },
+    {
+      "no": "T19",
+      "field": "탄소복합소재",
+      "inst": "전북대학교",
+      "title": "50배 싼 카본블랙 스마트 광셔터",
+      "url": "assets/docs/T19_SMK.jpg",
+      "thumb": "kj-T19"
+    },
+    {
+      "no": "T20",
+      "field": "이차전지",
+      "inst": "전북대학교",
+      "title": "불길 늦추는 에어로겔 배터리 케이스",
+      "url": "assets/docs/T20_SMK.jpg",
+      "thumb": "kj-T20"
+    }
+  ]
+}
