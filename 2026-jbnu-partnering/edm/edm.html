@@ -2,37 +2,16 @@
 <html lang="ko">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>KIST-전북대 공동기술상담회</title>
 </head>
 <body style="margin:0; padding:0; background-color:#ffffff;">
-  <!-- 브라우저용 이미지맵: 지정한 GitHub 이미지의 원본 크기 891 × 1000 기준. -->
-  <!-- 메일 서비스에 따라 이미지맵 또는 크기 보정 스크립트가 제거될 수 있습니다. -->
-  <div style="width:100%; max-width:891px; margin:0 auto;">
-    <img id="edm-image" src="https://darae-daejeon.github.io/kist-jbnu-partnering-2026/edm/edm.png" width="891" height="1000" usemap="#edm-buttons" alt="KIST-전북대 탄소복합·이차전지소재 공동기술상담회" style="display:block; width:100%; height:auto; border:0;">
+  <div style="width:891px; margin:0 auto;">
+    <img src="https://darae-daejeon.github.io/kist-jbnu-partnering-2026/edm/edm.png" width="891" height="1000" usemap="#edm-buttons" alt="KIST-전북대 탄소복합·이차전지소재 공동기술상담회" style="display:block; width:891px; height:1000px; border:0;">
     <map name="edm-buttons" id="edm-buttons">
-      <area shape="rect" coords="80,571,407,650" data-original-coords="80,571,407,650" href="https://darae-daejeon.github.io/kist/2026-jbnu-partnering/" target="_blank" rel="noopener noreferrer" alt="탄소복합소재 출품기술" title="탄소복합소재 출품기술">
-      <area shape="rect" coords="486,571,804,650" data-original-coords="486,571,804,650" href="https://darae-daejeon.github.io/kist/2026-jbnu-partnering/" target="_blank" rel="noopener noreferrer" alt="이차전지 출품기술" title="이차전지 출품기술">
-      <area shape="rect" coords="229,788,657,874" data-original-coords="229,788,657,874" href="https://darae-daejeon.github.io/kist/2026-jbnu-partnering/" target="_blank" rel="noopener noreferrer" alt="상담 신청하기" title="상담 신청하기">
+      <area shape="rect" coords="80,571,407,650" href="https://darae-daejeon.github.io/kist/2026-jbnu-partnering/" target="_blank" alt="탄소복합소재 출품기술" title="탄소복합소재 출품기술">
+      <area shape="rect" coords="486,571,804,650" href="https://darae-daejeon.github.io/kist/2026-jbnu-partnering/" target="_blank" alt="이차전지 출품기술" title="이차전지 출품기술">
+      <area shape="rect" coords="229,788,657,874" href="https://darae-daejeon.github.io/kist/2026-jbnu-partnering/" target="_blank" alt="상담 신청하기" title="상담 신청하기">
     </map>
   </div>
-  <script>
-    // 이미지가 축소되면 버튼 좌표도 같은 비율로 보정합니다.
-    (function () {
-      var image = document.getElementById('edm-image');
-      var areas = document.querySelectorAll('#edm-buttons area');
-      function resizeMap() {
-        var ratio = image.getBoundingClientRect().width / 891;
-        areas.forEach(function (area) {
-          area.coords = area.dataset.originalCoords.split(',').map(function (value) {
-            return Math.round(Number(value) * ratio);
-          }).join(',');
-        });
-      }
-      image.addEventListener('load', resizeMap);
-      window.addEventListener('resize', resizeMap);
-      if (image.complete) resizeMap();
-    }());
-  </script>
 </body>
 </html>
