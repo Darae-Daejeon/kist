@@ -45,7 +45,7 @@
     },
     {
       "no": "T04",
-      "field": "탄소복합소재",
+      "field": "이차전지",
       "inst": "KIST 전북분원",
       "title": "폐아라미드로 만든 고방열 복합체",
       "url": "assets/docs/T04_SMK.jpg",
@@ -53,7 +53,7 @@
     },
     {
       "no": "T05",
-      "field": "탄소복합소재",
+      "field": "이차전지",
       "inst": "KIST 전북분원",
       "title": "BNNT 불순물 잡는 초간단 정제법",
       "url": "assets/docs/T05_SMK.jpg",
@@ -77,7 +77,7 @@
     },
     {
       "no": "T08",
-      "field": "탄소복합소재",
+      "field": "이차전지",
       "inst": "전북대학교",
       "title": "제철소 부생가스로 바로 발전하는 SOFC",
       "url": "assets/docs/T08_SMK.jpg",
@@ -101,7 +101,7 @@
     },
     {
       "no": "T11",
-      "field": "탄소복합소재",
+      "field": "이차전지",
       "inst": "전북대학교",
       "title": "메탄에서 수소 뽑고 담는 Mg 합금",
       "url": "assets/docs/T11_SMK.jpg",
@@ -125,7 +125,7 @@
     },
     {
       "no": "T14",
-      "field": "이차전지",
+      "field": "탄소복합소재",
       "inst": "전북대학교",
       "title": "분산제 없이 방사선으로 푸는 CNT",
       "url": "assets/docs/T14_SMK.jpg",
@@ -141,7 +141,7 @@
     },
     {
       "no": "T16",
-      "field": "이차전지",
+      "field": "탄소복합소재",
       "inst": "KIST 전북분원",
       "title": "10만 번 충전에도 끄떡없는 섬유 전극",
       "url": "assets/docs/T16_SMK.jpg",
