@@ -178,6 +178,22 @@
       "title": "불길 늦추는 에어로겔 배터리 케이스",
       "url": "assets/docs/T20_SMK.jpg",
       "thumb": "kj-T20"
+    },
+    {
+      "no": "T21",
+      "field": "이차전지",
+      "inst": "KIST 전북분원",
+      "title": "OLED 수명 늘리는 초박막 봉지필름",
+      "url": "assets/docs/T21_SMK.jpg",
+      "thumb": "assets/img/kj-T21.jpg"
+    },
+    {
+      "no": "T22",
+      "field": "이차전지",
+      "inst": "KIST 전북분원",
+      "title": "빛 잘 통하고 습기 막는 유연 투명전극",
+      "url": "assets/docs/T22_SMK.jpg",
+      "thumb": "assets/img/kj-T22.jpg"
     }
   ]
 }
